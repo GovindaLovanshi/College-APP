@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "72494542929",
+    "project_id": "management-app-6085c",
+    "storage_bucket": "management-app-6085c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72494542929:android:eeea0bebd6613eafd38870",
+        "android_client_info": {
+          "package_name": "com.example.managementapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTbMT5VC3Qcp1XLHd-EwKEU5l5XafPd1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
